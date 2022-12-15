@@ -1,0 +1,5 @@
+
+
+[1] make the desain for the disktop and make it responsive for phone 
+[2] pop-up funtion show image work only on desktop version 
+[3] everything else look down the paper
