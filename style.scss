@@ -366,12 +366,13 @@ nav .container {
       padding: 0;
       display: flex;
       gap: 20px;
+      justify-content: space-between;
       li {
         border: 2px solid transparent;
         border-radius: 10px;
         overflow: hidden;
         cursor: pointer;
-        max-width: 105px;
+        max-width: 110px;
         img {
           width: 100%;
         }

@@ -358,6 +358,7 @@ nav .container .shop-area .avatar:hover {
   padding: 0;
   display: flex;
   gap: 20px;
+  justify-content: space-between;
 }
 @media (max-width: 768px) {
   .contant .prodact-image ul {
@@ -369,7 +370,7 @@ nav .container .shop-area .avatar:hover {
   border-radius: 10px;
   overflow: hidden;
   cursor: pointer;
-  max-width: 105px;
+  max-width: 110px;
 }
 .contant .prodact-image ul li img {
   width: 100%;
